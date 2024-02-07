@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "08add2ebafedaef1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2566ae69cc0683d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8cb900a29b63ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "行业/AI/AI应用层投资思路.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a490f571b2e811e",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbb26b935c66279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0ee752129568d9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07f452c941f17920",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f41b227f9363c418",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f6acc9e7c1b6f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "3815929f49a777a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab3734e1be5567a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "行业/AI/AI应用层投资思路.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00350e61dddbd920",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "行业/AI/AI应用层投资思路.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fe3519be0723025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50c94e919a708c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "行业/AI/AI应用层投资思路.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "50c94e919a708c9d",
+  "lastOpenFiles": [
+    "行业/AI/2024 AI 投资趋势.md",
+    "学习/投资学习.md",
+    "Memu.md",
+    "行业/行业.md",
+    "行业/AI/AI应用层投资思路.md",
+    "个股/Microsoft.md",
+    "个股/英伟达.md",
+    "行业/AI.md",
+    "行业/AI",
+    "个股",
+    "未命名.md",
+    "个股分析.md",
+    "学习",
+    "行业"
+  ]
+}
