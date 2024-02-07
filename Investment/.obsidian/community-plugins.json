@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-checklist-plugin"
 ]

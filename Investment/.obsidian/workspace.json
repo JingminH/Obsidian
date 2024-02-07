@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/建立自己的投资体系.md",
+                "file": "行业/AI/2024 AI 投资趋势.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/建立自己的投资体系.md",
+                "file": "行业/AI/2024 AI 投资趋势.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/建立自己的投资体系.md",
+                "file": "行业/AI/2024 AI 投资趋势.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/建立自己的投资体系.md"
+                "file": "行业/AI/2024 AI 投资趋势.md"
               }
+            }
+          },
+          {
+            "id": "3949e7a5f3976f7e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -149,20 +157,20 @@
   },
   "active": "e4a0085236132bc0",
   "lastOpenFiles": [
+    "行业/AI/AI应用层投资思路.md",
+    "个股/英伟达.md",
+    "行业/AI/2024 AI 投资趋势.md",
+    "个股/Microsoft.md",
     "学习/建立自己的投资体系.md",
+    "Memu.md",
     "photo/微笑曲线.jpg",
     "photo",
     "untitled folder",
     "微笑曲线.jpg",
-    "Memu.md",
-    "行业/AI/2024 AI 投资趋势.md",
     "hhhh.md",
-    "行业/AI/AI应用层投资思路.md",
     "2024-02-06.md",
     "行业/行业.md",
     "学习/投资学习.md",
-    "个股/Microsoft.md",
-    "个股/英伟达.md",
     "行业/AI.md",
     "行业/AI",
     "个股",
